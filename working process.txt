@@ -1,0 +1,5 @@
+Working Process:
+
+*This project uses Arduino to controls the motor. The Arduino Board is programmed using the Arduino IDE software.
+*The Moisture Sensor measures the level of moisture in the soil and sends the signal to the Arduino if water is required.
+*The motor/water pump supplies water to the plant until the desired moisture level is reached.
